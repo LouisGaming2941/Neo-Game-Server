@@ -1,5 +1,4 @@
-[Banner]
-(https://imgur.com/a/nOt1VWO)
+![Banner](https://imgur.com/a/nOt1VWO)
 
 This is the official Neo Game Server. It is a modified Reboot source that accommodates the needs of Neo. Join our Discord at: **https://discord.com/invite/YJ7R8KpkCN**
 
