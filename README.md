@@ -7,6 +7,7 @@ This is the official Neo Game Server. It is a modified Reboot source that accomm
 1. **S3-S15 Support**
 2. **Late Game enhancements**
 3. **Better GUI**
+4. **Bots**
 and many more to come!
 
 ## License
